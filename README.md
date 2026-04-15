@@ -1,5 +1,4 @@
 # OS-Jackfruit: Multi-Container Runtime
-**Developer:** Vageesh
 **Course:** UE24CS242B - Operating Systems
 **University:** PES University
 
@@ -60,8 +59,8 @@ sudo ./engine start alpha ./rootfs-alpha /bin/sh --soft-mib 48 --hard-mib 80
 
 ## 1. Team Information
 
-- Team Member 1: <NAME> (<SRN>)
-- Team Member 2: <NAME> (<SRN>)
+- Team Member 1: VAGEESH PES2UG24CS663
+- Team Member 2: ARYA V D PES2UG24CS663
 
 ## 2. Build, Load, and Run Instructions
 
