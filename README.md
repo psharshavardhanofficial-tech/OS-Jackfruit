@@ -2,9 +2,13 @@ cat << 'EOF' > README.md
 # 📦 Multi-Container Runtime (OS-Jackfruit)
 
 ## 👨‍💻 Team Information
-
+### MEMBER 1
 - **Name:** Harshavardhan P.S  
-- **SRN:** PES2UG25CS817  
+- **SRN:** PES2UG25CS817
+- **Course:** B.Tech CSE – PES University
+### MEMBER 2
+- **Name:** HITHESH NANJUNDA SWAMY  
+- **SRN:** PES2UG24CS635
 - **Course:** B.Tech CSE – PES University  
 
 ---
